@@ -13,5 +13,20 @@
     "district": "IA-03",
     "state": "IA",
     "tags": ["veterans", "education", "community"]
+  },
+  {
+    "slug": "ID-01",
+    "name": "Myles Hardy",
+    "appName": "Planelooly",
+    "description": "Planelooly is a game about connecting airports, and it hopes to teach players about geography and the air travel industry.",
+    "thumbnail": "sites/ID-01/thumbnail.png",
+    "location": {
+      "lat": 43.693056,
+      "lng": -116.346389,
+      "label": "Eagle, ID"
+    },
+    "district": "ID-01",
+    "state": "ID",
+    "tags": ["aviation", "geography"]
   }
 ]
