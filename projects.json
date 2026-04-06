@@ -28,5 +28,20 @@
     "district": "ID-01",
     "state": "ID",
     "tags": ["aviation", "geography"]
+  },
+  {
+    "slug": "CO-08",
+    "name": "Aditi Muthukumar",
+    "appName": "Clearmind for Teens",
+    "description": "A data-driven cannabis education platform built for teens, parents, and schools",
+    "thumbnail": "sites/CO-08/clearmind.png",
+    "location": {
+      "lat": 39.8367,
+      "lng": 105.0372,
+      "label": "Westminster CO"
+    },
+    "district": "CO-08",
+    "state": "CO",
+    "tags": ["Healthcare", "Teen-Education"]
   }
 ]
