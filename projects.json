@@ -15,18 +15,33 @@
     "tags": ["veterans", "education", "community"]
   },
   {
-  "slug": "CO-08",
-  "name": "Aditi Muthukumar",
-  "appName": "Clearmind for Teens",
-  "description": "A data-driven cannabis education platform built for teens, parents, and schools",
-  "thumbnail": "sites/CO-08/clearmind.png",
-  "location": {
-    "lat": 39.8367,
-    "lng": 105.0372,
-    "label": "Westminster CO"
+    "slug": "ID-01",
+    "name": "Myles Hardy",
+    "appName": "Planelooly",
+    "description": "Planelooly is a game about connecting airports, and it hopes to teach players about geography and the air travel industry.",
+    "thumbnail": "sites/ID-01/thumbnail.png",
+    "location": {
+      "lat": 43.693056,
+      "lng": -116.346389,
+      "label": "Eagle, ID"
+    },
+    "district": "ID-01",
+    "state": "ID",
+    "tags": ["aviation", "geography"]
   },
-  "district": "CO-08",
-  "state": "CO",
-  "tags": ["Healthcare", "Teen-Education"]
-}
+  {
+    "slug": "CO-08",
+    "name": "Aditi Muthukumar",
+    "appName": "Clearmind for Teens",
+    "description": "A data-driven cannabis education platform built for teens, parents, and schools",
+    "thumbnail": "sites/CO-08/clearmind.png",
+    "location": {
+      "lat": 39.8367,
+      "lng": 105.0372,
+      "label": "Westminster CO"
+    },
+    "district": "CO-08",
+    "state": "CO",
+    "tags": ["Healthcare", "Teen-Education"]
+  }
 ]
